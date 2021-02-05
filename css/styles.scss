@@ -1,8 +1,8 @@
-$color-primary: #3046C5;
-$color-secondary: #5637dd;
-$color-pale: #CEC8FF;
-$color-mid: #901CAD;
-$color-dark: #60106b;
+$color-navtext: #ca261d;
+$color-secondary: #91a8b8;
+$color-pale: #CDD8DF;
+$color-mid: #788B98;
+$color-dark: #5A6972;
 $color-black-transparent: rgba(0, 0, 0, 0.5);
 
 $body-font: "Open Sans", sans-serif;
@@ -37,7 +37,7 @@ header {
 
 .jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, $color-secondary, $color-primary, $color-dark);
+    background-color: $color-secondary;
     color: white;
     margin: 0;
 }
