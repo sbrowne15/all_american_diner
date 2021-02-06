@@ -1,7 +1,7 @@
 {
-  "name": "nucampsite",
+  "name": "allamericandiner",
   "version": "1.0.0",
-  "description": "This is a website for the fictional campsites review site NuCamp.",
+  "description": "This is a website for the All American Diner in Midwest City, OK.",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",

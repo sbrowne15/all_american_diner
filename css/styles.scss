@@ -1,5 +1,6 @@
 $color-headertext: #ca261d;
 $color-secondary: #91a8b8;
+$color-primary: #3046C5;
 $color-pale: #CDD8DF;
 $color-mid: #788B98;
 $color-dark: #5A6972;
@@ -53,9 +54,10 @@ header {
 }
 
 .tab-content {
-    border: 1px solid #DDD;
+    border: 1px solid $color-secondary;
     border-Top: none;
     padding: 10px;
+    background-color: white;
 }
 
 a, a:hover {
