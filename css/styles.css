@@ -12,7 +12,7 @@ h2 {
   color: #3046C5; }
 
 header h2 {
-  color: #CEC8FF; }
+  color: #ca261d; }
 
 .site-footer {
   background-image: linear-gradient(#CDD8DF, white);
@@ -45,7 +45,15 @@ a, a:hover {
   background-color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
-  border: solid #91a8b8; }
+  border: solid #91a8b8; 
+  height: 100%;
+  width: 100%;
+  overflow:hidden;
+}
+
+.carousel .carousel-inner {
+  height:100%;    
+}
 
 #carouselButton {
   position: absolute;

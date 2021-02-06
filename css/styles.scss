@@ -1,4 +1,4 @@
-$color-navtext: #ca261d;
+$color-headertext: #ca261d;
 $color-secondary: #91a8b8;
 $color-pale: #CDD8DF;
 $color-mid: #788B98;
@@ -69,6 +69,13 @@ a, a:hover {
 
 .carousel {
     border: solid $color-secondary;
+    height: 100%;
+    width: 100%;
+    overflow:hidden;
+}
+
+.carousel .carousel-inner {
+    height:100%;    
 }
 
 #carouselButton {
