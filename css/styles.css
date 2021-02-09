@@ -2,10 +2,12 @@ html {
   scroll-behavior: smooth; }
 
 body {
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Cherry Cream Soda", cursive;
+  background-color: #CDD8DF; }
 
 h1, h2, h3 {
-  font-family: "Lobster", cursive; }
+  font-family: "Fontdiner Swanky", cursive;
+  color: #ca261d; }
 
 h2 {
   color: #3046C5; }

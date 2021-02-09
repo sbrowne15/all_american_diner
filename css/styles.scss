@@ -6,8 +6,8 @@ $color-mid: #788B98;
 $color-dark: #5A6972;
 $color-black-transparent: rgba(0, 0, 0, 0.5);
 
-$body-font: "Open Sans", sans-serif;
-$header-font: "Lobster", cursive;
+$body-font: 'Cherry Cream Soda', cursive;
+$header-font: 'Fontdiner Swanky', cursive;
 
 html {
     scroll-behavior: smooth;
@@ -15,10 +15,12 @@ html {
 
 body {
     font-family: $body-font;
+    background-color: $color-pale;
 }
 
 h1, h2, h3 {
     font-family: $header-font;
+    color: $color-headertext;
 }
 
 h2 {
