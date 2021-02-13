@@ -13,7 +13,7 @@ h2 {
   color: #3046C5; }
 
 header h2 {
-  color: #CDD8DF; }
+  color: #3046C5; }
 
 .site-footer {
   background-image: linear-gradient(#CDD8DF, white);
@@ -27,7 +27,6 @@ header h2 {
 
 .row-content {
   padding: 50px 0;
-  border-bottom: 1px ridge;
   min-height: 200px; }
 
 .navbar {
